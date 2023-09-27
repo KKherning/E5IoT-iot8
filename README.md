@@ -5,7 +5,7 @@
 * en temperatur sensor
 * en lysfølsom modstand
 * en ADXL345
-* et display 1602A.
+* et TFT farve display.
 
 ## Funktionsbeskrivelse
 

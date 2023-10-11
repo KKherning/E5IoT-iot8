@@ -42,7 +42,7 @@ http_request_t request;
 http_response_t response;
 
 // Vejr-API-variabler
-const char *apiKey = "19778e8d65b982bdfff0345fa99b9099";                   // Min vejr API-noegle til api.openweathermap.org
+const char *apiKey = "?????????????????????????????????";                   // Min vejr API-noegle til api.openweathermap.org
 const char *baseUrl = "http://api.openweathermap.org/data/2.5/weather?q="; // Grund URL
 float LokalTemp = 0.0;                                                     // variabel til at opbevare DHT11 temperatur data
 char urlAarhus[256];                                                       // variabel til den komplette URL til at hente temperatur i Århus
